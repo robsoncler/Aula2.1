@@ -2,5 +2,6 @@
 Atrizes:
 
 Angelina Jolie 
-Megan Fox
+Bruna Marquezine
 Mila Kunis
+Anitta
